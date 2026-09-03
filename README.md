@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome to my Github!!! 😀
+ > 환영합니다!!!
+> 
+## Who are you? 🤔
+- *SeoulTech* 24학번 *컴퓨터공학과*
+- 2005년생이고 남자입니다
 
-<!--
-**pjb0318/pjb0318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interested In
+ 1. OOP
+ 2. Computer Vision
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
