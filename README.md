@@ -1,13 +1,33 @@
-## Welcome to my Github!!! 😀
- > 환영합니다!!!
-> 
-## Who are you? 🤔
-- *SeoulTech* 24학번 *컴퓨터공학과*
-- 2005년생이고 남자입니다
+# Welcome to my GitHub!!! 😀
+
+> **환영합니다!!!**  
+> 제 GitHub에 방문해주셔서 감사합니다.
+
+---
+
+## Who am I? 🤔
+
+- SeoulTech 24학번 **컴퓨터공학과**
+- 컴퓨터공학과에서 공부하고 있는 대학생입니다.
+- 현재 관심 분야를 중심으로 꾸준히 공부하고 있습니다.
 
 ## Interested In
- 1. OOP
- 2. Computer Vision
 
+1. **OOP**
+2. **Computer Vision**
 
+## Studying 📚
 
+- [x] Git & GitHub
+- [ ] Computer Vision
+- [ ] Machine Learning
+
+### Languages
+
+`C` / `C++` / `Java` / `Python`
+
+---
+
+### My Goal
+
+> 꾸준히 공부하고, 배운 내용을 **GitHub에 기록하는 것**이 목표입니다.
